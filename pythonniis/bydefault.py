@@ -1,0 +1,8 @@
+print("A",end="\n")
+print("D",end="\n")
+print("B",end="#")
+print("C",end="@")
+print("A",10,2,5)
+print("A",10,2,5,sep="")
+print("A",10,2,5,sep="\n")
+print("cls=clear the screen")

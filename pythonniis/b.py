@@ -1,0 +1,6 @@
+nm=input("enter a name\n")
+r=int(input("enter a rollno\n"))
+m=int(input("enter a mark\n"))
+print("my name",nm)
+print("my roll no",r)
+print("my mark",m)

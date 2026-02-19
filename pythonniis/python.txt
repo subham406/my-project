@@ -1,0 +1,57 @@
+#literal,scape sequence,variable:,ideantifire:
+#identifire
+#it is use defiend word.
+#this word is use to name of
+#variable,function,array
+#rule
+#(a)is constant
+a to z
+A TO Z
+1 to 9
+
+
+
+
+
+
+  data type
+int
+flote
+bool complex
+str
+
+list 
+tuple
+set 
+dict
+...
+in c c++ java
+datatype variablename 
+int a;
+flote b;
+
+variable =literal;
+a=10;
+b=23f;
+a=4.5;error
+a=20; valid
+in python
+variablename=literal
+a=10;
+a=20;
+a=4.5;
+a="hii"
+
+programmer
+
+
+
+type casting
+
+-----------
+operater
+
+
+types of operator
+unary
+binary

@@ -55,3 +55,147 @@ operater
 types of operator
 unary
 binary
+  
+
+
+logical or short surcit operater
+----------------------------
+or
+and
+not
+
+            or
+op1        op2         result
+true       true        true
+
+
+
+
+
+sequential control statement
+___________________________
+print("A")
+print("B")
+print("C")
+
+conditional
+______________
+if
+if else 
+elif
+ 
+
+case match
+
+looping
+__________
+while
+for in
+
+if(condition)
+{
+  
+}
+
+if condition:
+    if block 
+
+
+multiple if
+__________
+program contain more then if 
+every if condition must checking
+
+nested if 
+_____________
+if condition:
+  if condition2:
+    this book exicute  
+
+
+    askie value 
+    _____________
+    A         65
+    B          66
+    Z            90
+
+
+    a        97
+    b      98
+    z       122
+
+
+    0      48
+    1      49
+    9       57
+
+
+    if condition:
+      if true bloclk
+    else
+      i
+
+
+ ternary operater style
+ _______________________
+ truepart if condition else falsepart
+
+initialisation/start block
+ while condition/
+ 
+
+
+
+
+
+ syntax of while loop
+ ____________________
+ initialisation
+ while condition
+ while block
+
+     ..........
+     ......
+     updatable
+     .....     
+
+display hi message 5 times
+1 to 10
+1 to 20
+10 to 1
+10 to 30
+20 to 30
+
+
+sequence
+_________   
+
+string
+touple
+list
+set
+dict
+range
+
+
+
+
+
+NO RETURN VALUE NO ARGUMENT
+NO RETURN VALUE WITH ARGUMENT
+RETURN VALUE WITH NO ARGUMENT
+RETURN VALUE WITH ARGUMENT
+
+
+
+
+3!=3*2*1=6
+4!=4*2*3*1=24
+1
+1
+no=4
+f=1
+while no>0
+f=f*no
+no=no-1
+print("factorial",f)
